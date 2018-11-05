@@ -1,6 +1,6 @@
 Goals Mobile Project
 =====================
-An Ionic Angular project containing features for the TFP C4 application. Configured for use on both iOS and Android devices. Consists of the following additional features:
+An Angular Project containing features from a Ionic project modified to work as a PWA. Configured for use on both on the web and utilize service workers and firebase to store information. Consists of the following additional features:
 
 * Sass for stylesheets
 * Jasmine and Karma for unit tests 
